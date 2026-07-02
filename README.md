@@ -55,12 +55,6 @@ open flappy-tori/index.html
 
 ---
 
-## 📦 このプロジェクトについて
-
-自宅GPUサーバー上の Claude Code (Fable 5) が直列生成した Web 作品群 **[NINETY](https://github.com/masafykun/ninety)** の一作です。全作品は [ギャラリー](https://masafykun.github.io/ninety/) から一覧できます。
-
----
-
 ## ライセンス
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square)](https://opensource.org/licenses/MIT)
